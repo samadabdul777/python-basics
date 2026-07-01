@@ -1,8 +1,3 @@
-import os
-
-print("Current Folder:", os.getcwd())
-
-
 def menu():
     print("\n" + "=" * 45)
     print("      STUDENT MANAGEMENT SYSTEM")
