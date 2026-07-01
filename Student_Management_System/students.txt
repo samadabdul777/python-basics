@@ -1,0 +1,2 @@
+abdul,20,cse ai/ml
+ahmed,20,ece
